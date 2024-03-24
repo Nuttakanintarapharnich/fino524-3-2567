@@ -19,9 +19,10 @@ Connext Team(2022)เนื่องจากในกระดาษมีส�
   เเละทำกาารบันทึกลงฐานข้อมูลของ firebase 
 
 หน้าเริ่มต้น
-![image](https://github.com/Nuttakanintarapharnich/fino524-3-2567/assets/98374208/4f8895c5-a18e-4325-ad23-636d7eef6f78)
+![image](https://github.com/Nuttakanintarapharnich/fino524-3-2567/assets/98374208/f2ccdfcd-e2c0-4d90-9167-f84048b701c8)
 หน้าเพิ่ม
-![image](https://github.com/Nuttakanintarapharnich/fino524-3-2567/assets/98374208/a9ef257a-3c66-4900-bbbd-585089060703)
+![image](https://github.com/Nuttakanintarapharnich/fino524-3-2567/assets/98374208/f33b92b0-22a8-4fd6-b0cd-8b52b4a5e41f)
 หน้าเเก้ใข
-![image](https://github.com/Nuttakanintarapharnich/fino524-3-2567/assets/98374208/218b7095-654e-48eb-bf67-257dadeb7c6d)
+![image](https://github.com/Nuttakanintarapharnich/fino524-3-2567/assets/98374208/0e34e9ac-1b17-4fea-b2f1-6bf59a2f664a)
+
 
