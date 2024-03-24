@@ -25,4 +25,4 @@ Connext Team(2022)เนื่องจากในกระดาษมีส�
 หน้าเเก้ใข
 ![image](https://github.com/Nuttakanintarapharnich/fino524-3-2567/assets/98374208/0e34e9ac-1b17-4fea-b2f1-6bf59a2f664a)
 
-
+Connext Team(2022)จากhttps://techsauce.co/connext/life-hacks/why-do-some-people-like-the-smell-of-books
