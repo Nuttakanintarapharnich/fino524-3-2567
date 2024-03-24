@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "165588112617",
+    "firebase_url": "https://homhom-bbdcf-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "homhom-bbdcf",
+    "storage_bucket": "homhom-bbdcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165588112617:android:5423876f30411477ab8c78",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJp4s4I_3AtV4j1keTUTTT9bVuTZR6Vd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
